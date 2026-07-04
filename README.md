@@ -9,8 +9,10 @@ Aplikasi dikembangkan menggunakan PHP dan MySQL sebagai sistem basis data, serta
 - PHP
 - CSS
 - JavaScript
-- MySQL
 
+## Database
+- MySQL
+  
 ## Framework
 - Bootstrap 5
 
