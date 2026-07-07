@@ -1,9 +1,9 @@
-# Aplikasi Inventori Produk Rambut di Salon
+# Website Inventori Produk Rambut di Salon
 
 ## Deskripsi
-Aplikasi Inventori Produk Rambut di Salon merupakan aplikasi berbasis web yang dirancang untuk membantu admin salon dalam mengelola inventori produk kecantikan secara efisien. Sistem ini menyediakan pengelolaan data barang, kategori, supplier, dan pengguna melalui fitur CRUD (Create, Read, Update, Delete). Selain itu, aplikasi dilengkapi dengan dashboard yang menampilkan ringkasan data inventori, daftar produk terbaru, serta peringatan stok rendah sehingga memudahkan pemilik salon dalam mengelola persediaan produk.
+Website Inventori Produk Rambut di Salon merupakan aplikasi berbasis web yang dirancang untuk membantu admin salon dalam mengelola inventori produk kecantikan secara efisien. Sistem ini menyediakan pengelolaan data barang, kategori, supplier, dan pengguna melalui fitur CRUD (Create, Read, Update, Delete). Selain itu, aplikasi dilengkapi dengan dashboard yang menampilkan ringkasan data inventori, daftar produk terbaru, serta peringatan stok rendah sehingga memudahkan pemilik salon dalam mengelola persediaan produk.
 
-Aplikasi dikembangkan menggunakan PHP dan MySQL sebagai sistem basis data, serta memanfaatkan Bootstrap 5 untuk menghasilkan tampilan yang modern, responsif, dan mudah digunakan.
+Website dikembangkan menggunakan PHP dan MySQL sebagai sistem basis data, serta memanfaatkan Bootstrap 5 untuk menghasilkan tampilan yang modern, responsif, dan mudah digunakan.
 
 ## Bahasa Pemrograman
 - PHP
